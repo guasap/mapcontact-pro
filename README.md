@@ -1,5 +1,5 @@
 
-# 🚀 MapContact Pro Suite
+# MapContact Pro Suite
 
 ![Version](https://img.shields.io/badge/version-2.1.26-gold)
 ![License](https://img.shields.io/badge/license-ISC-blue)
