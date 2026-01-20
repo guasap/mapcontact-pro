@@ -38,7 +38,7 @@
 
 <hr/>
 
-<h2>📸 Preview</h2>
+<h2 align="center">📸 Preview</h2>
 
 <div align="center">
   <img src="/images/1.jpg" alt="MapContact Pro Suite - Vista principal" width="950" />
@@ -47,10 +47,12 @@
 
 <hr/>
 
-<h2 id="-caracteristicas">💎 Características (nivel pro)</h2>
+<h2 align="center" id="-caracteristicas">💎 Características (nivel pro)</h2>
+
+<br/>
 
 <!-- Feature Cards (2x3) -->
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>🔍 Extracción masiva</h3>
@@ -109,103 +111,124 @@
   </tr>
 </table>
 
+<br/>
 <hr/>
 
-<h2 id="-workflow">⚡ Workflow en 3 pasos</h2>
+<h2 align="center" id="-workflow">⚡ Workflow en 3 pasos</h2>
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>1️⃣ Buscar</h3>
-      <p>Define términos y ubicación, ajusta filtros y lanza la búsqueda.</p>
-      <p><kbd>Iniciar</kbd> → resultados agrupados listos para revisar.</p>
-    </td>
+<br/>
 
-    <td width="33%" valign="top" align="center">
-      <h3>2️⃣ Calificar</h3>
-      <p>Revisa por vistas (con web / sin web / reseñas / sheets) y prioriza.</p>
-      <p><kbd>Filtrar</kbd> → enfoca solo lo que interesa.</p>
-    </td>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>1️⃣ Buscar</h3>
+        <p>Define términos y ubicación, ajusta filtros y lanza la búsqueda.</p>
+        <p><kbd>Iniciar</kbd> → resultados agrupados listos para revisar.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>2️⃣ Calificar</h3>
+        <p>Revisa por vistas (con web / sin web / reseñas / sheets) y prioriza.</p>
+        <p><kbd>Filtrar</kbd> → enfoca solo lo que interesa.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>3️⃣ Accionar</h3>
+        <p>Organiza, prepara contacto y exporta para tu operación.</p>
+        <p><kbd>Exportar</kbd> → JSON directo a tu sistema.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-    <td width="33%" valign="top" align="center">
-      <h3>3️⃣ Accionar</h3>
-      <p>Organiza, prepara contacto y exporta para tu operación.</p>
-      <p><kbd>Exportar</kbd> → JSON directo a tu sistema.</p>
-    </td>
-  </tr>
-</table>
-
+<br/>
 <hr/>
 
-<h2 id="-requisitos">💻 Requisitos del Sistema</h2>
+<h2 align="center" id="-requisitos">💻 Requisitos del Sistema</h2>
 
-<table>
-  <tr>
-    <th>Componente</th>
-    <th>Mínimo</th>
-    <th>Recomendado</th>
-  </tr>
-  <tr>
-    <td><b>Sistema Operativo</b></td>
-    <td>Windows 10 (64-bit)</td>
-    <td>Windows 11 (64-bit)</td>
-  </tr>
-  <tr>
-    <td><b>Procesador</b></td>
-    <td>Intel Core i3 / AMD Ryzen 3</td>
-    <td>Intel Core i5 / AMD Ryzen 5 o superior</td>
-  </tr>
-  <tr>
-    <td><b>RAM</b></td>
-    <td>4 GB</td>
-    <td>8 GB o más</td>
-  </tr>
-  <tr>
-    <td><b>Espacio en Disco</b></td>
-    <td>500 MB libres</td>
-    <td>1 GB libres</td>
-  </tr>
-  <tr>
-    <td><b>Conectividad</b></td>
-    <td colspan="2">Internet estable (10+ Mbps recomendado)</td>
-  </tr>
-  <tr>
-    <td><b>Resolución</b></td>
-    <td>1366x768</td>
-    <td>1920x1080 o superior</td>
-  </tr>
-</table>
+<br/>
 
+<div align="center">
+  <table>
+    <tr>
+      <th>Componente</th>
+      <th>Mínimo</th>
+      <th>Recomendado</th>
+    </tr>
+    <tr>
+      <td><b>Sistema Operativo</b></td>
+      <td>Windows 10 (64-bit)</td>
+      <td>Windows 11 (64-bit)</td>
+    </tr>
+    <tr>
+      <td><b>Procesador</b></td>
+      <td>Intel Core i3 / AMD Ryzen 3</td>
+      <td>Intel Core i5 / AMD Ryzen 5 o superior</td>
+    </tr>
+    <tr>
+      <td><b>RAM</b></td>
+      <td>4 GB</td>
+      <td>8 GB o más</td>
+    </tr>
+    <tr>
+      <td><b>Espacio en Disco</b></td>
+      <td>500 MB libres</td>
+      <td>1 GB libres</td>
+    </tr>
+    <tr>
+      <td><b>Conectividad</b></td>
+      <td colspan="2">Internet estable (10+ Mbps recomendado)</td>
+    </tr>
+    <tr>
+      <td><b>Resolución</b></td>
+      <td>1366x768</td>
+      <td>1920x1080 o superior</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 <hr/>
 
-<h2 id="-instalacion">🚀 Instalación</h2>
+<h2 align="center" id="-instalacion">🚀 Instalación</h2>
 
-<ul>
-  <li>📦 Descargas y versiones: <a href="https://github.com/guasap/mapcontact-pro/releases"><b>Releases</b></a></li>
-  <li>📥 Instalador (v2.1.26): <code>MapContact-Pro-Suite-Setup-2.1.26.exe</code></li>
-  <li>⚡ Instalación rápida: ejecuta el instalador y sigue el asistente.</li>
-</ul>
+<br/>
 
-<p>
-  <b>Descarga directa:</b><br/>
-  <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.26/MapContact-Pro-Suite-Setup-2.1.26.exe">
-    <code>https://github.com/guasap/mapcontact-pro/releases/download/v2.1.26/MapContact-Pro-Suite-Setup-2.1.26.exe</code>
-  </a>
-</p>
+<div align="center">
+  <p>📦 Descargas y versiones: <a href="https://github.com/guasap/mapcontact-pro/releases"><b>Releases</b></a></p>
+  <p>📥 Instalador (v2.1.26): <code>MapContact-Pro-Suite-Setup-2.1.26.exe</code></p>
+  <p>⚡ Instalación rápida: ejecuta el instalador y sigue el asistente.</p>
+  
+  <br/>
+  
+  <p><b>Descarga directa:</b></p>
+  <p>
+    <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.26/MapContact-Pro-Suite-Setup-2.1.26.exe">
+      <code>MapContact-Pro-Suite-Setup-2.1.26.exe</code>
+    </a>
+  </p>
+</div>
 
+<br/>
 <hr/>
 
-<h2 id="-datos--exportacion">📁 Datos & Exportación</h2>
+<h2 align="center" id="-datos--exportacion">📁 Datos & Exportación</h2>
 
-<ul>
-  <li>💾 <b>Almacenamiento local:</b> los resultados se guardan en tu equipo. Puedes abrir la carpeta de datos directamente desde la app.</li>
-  <li>📤 <b>Exportación:</b> exporta en <b>JSON</b> para integrarlo donde quieras (CRM, automatizaciones, análisis).</li>
-  <li>🔒 <b>Privacidad:</b> tus datos no se envían a ningún servidor externo.</li>
-</ul>
+<br/>
 
+<div align="center">
+  <p>💾 <b>Almacenamiento local:</b> los resultados se guardan en tu equipo. Puedes abrir la carpeta de datos directamente desde la app.</p>
+  <p>📤 <b>Exportación:</b> exporta en <b>JSON</b> para integrarlo donde quieras (CRM, automatizaciones, análisis).</p>
+  <p>🔒 <b>Privacidad:</b> tus datos no se envían a ningún servidor externo.</p>
+</div>
+
+<br/>
 <hr/>
 
-<h2>❓ FAQ</h2>
+<h2 align="center">❓ FAQ</h2>
+
+<br/>
+
+<div align="center">
 
 <details>
   <summary><b>¿Necesito API key de Google?</b></summary>
@@ -232,23 +255,33 @@
   <p>No hay límites artificiales. Depende de tu hardware y conexión a internet.</p>
 </details>
 
+</div>
+
+<br/>
 <hr/>
 
-<h2 id="-soporte">🤝 Soporte</h2>
+<h2 align="center" id="-soporte">🤝 Soporte</h2>
 
-<ul>
-  <li>🐛 <b>Issues:</b> <a href="https://github.com/guasap/mapcontact-pro/issues">Reportar problemas</a></li>
-  <li>📦 <b>Releases:</b> <a href="https://github.com/guasap/mapcontact-pro/releases">Ver todas las versiones</a></li>
-  <li>📧 <b>Email:</b> whbeatz.info@gmail.com</li>
-</ul>
-
-<hr/>
-
-<h2>📄 Licencia</h2>
-<p>ISC License. Uso comercial permitido.</p>
+<br/>
 
 <div align="center">
-  <br/>
+  <p>🐛 <b>Issues:</b> <a href="https://github.com/guasap/mapcontact-pro/issues">Reportar problemas</a></p>
+  <p>📦 <b>Releases:</b> <a href="https://github.com/guasap/mapcontact-pro/releases">Ver todas las versiones</a></p>
+  <p>📧 <b>Email:</b> whbeatz.info@gmail.com</p>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📄 Licencia</h2>
+
+<div align="center">
+  <p>ISC License. Uso comercial permitido.</p>
+</div>
+
+<br/>
+
+<div align="center">
   <p><b>MapContact Pro Suite</b> — Convierte Google Maps en un sistema profesional de captación y gestión de leads.</p>
   <br/>
   <p>
