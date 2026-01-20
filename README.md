@@ -6,7 +6,7 @@
 
 **La herramienta definitiva para scraping, gestión y automatización de contactos desde Google Maps.**
 
-MapContact Pro Suite lleva el scraping de leads a otro nivel: ultra rápido, seguro, con validación de licencias, actualizaciones automáticas y una interfaz premium. Pensada para profesionales, agencias y growth hackers que buscan resultados brutales y sin límites.
+MapContact Pro Suite lleva el scraping de leads a otro nivel: ultra rápido, seguro, actualizaciones automáticas y una interfaz premium. Pensada para profesionales, agencias y desarooladores que buscan resultados brutales y sin límites.
 
 ---
 
@@ -20,10 +20,9 @@ MapContact Pro Suite lleva el scraping de leads a otro nivel: ultra rápido, seg
 - 🎯 **Filtros Avanzados**: Por categoría, ubicación, con/sin web, con/sin reseñas, y más.
 - 📊 **Vistas de Datos Premium**: Explorador, Con Web, Sin Web, Reseñas, Sheets estilo Excel.
 - 🌓 **Tema Midnight Gold**: Interfaz profesional, dark/light, con diseño exclusivo.
-- 📹 **Vista en Vivo**: Observa el scraping en tiempo real, como un pro.
+- 📹 **Vista en Vivo**: Observa el scraping en tiempo real.
 - ⏰ **Automatización Total**: Programa búsquedas periódicas y olvídate del trabajo manual.
 - 💾 **Exportación Flexible**: Descarga datos en JSON, listos para importar donde quieras.
-- 🔒 **Sistema de Licencias Seguro**: Validación remota, protección anti-piratería y migración automática de datos.
 - 🛡️ **Actualizaciones Automáticas**: Siempre a la última, sin complicaciones.
 - 🚀 **Optimizado para Windows**: Instalador profesional, firma digital y soporte para actualizaciones.
 
@@ -51,7 +50,7 @@ MapContact Pro Suite lleva el scraping de leads a otro nivel: ultra rápido, seg
 
 ## 🎮 ¿Qué puedes hacer?
 
-- Buscar y extraer leads de cualquier sector y ciudad en Google Maps.
+- Buscar y extraer leads de cualquier sector y ciudad y país en Google Maps.
 - Filtrar por negocios con web, email, teléfono, reseñas, etc.
 - Visualizar y exportar los datos en diferentes formatos.
 - Automatizar campañas de scraping y generación de leads.
@@ -68,25 +67,10 @@ Los datos se guardan localmente en `/data` y puedes exportarlos o integrarlos do
 ---
 
 
-## 🛠️ Tecnologías
-
-- **Electron** (App de escritorio)
-- **Node.js + Express** (Backend)
-- **Puppeteer** (Scraping headless)
-- **Nodemailer** (Automatización de emails)
-- **Electron Updater** (Actualizaciones automáticas)
-- **Licenciamiento remoto** (Protección anti-piratería)
-- **UI Premium** (HTML/CSS/JS, Midnight Gold Theme)
-
----
-
-
 ## 📝 Notas
 
-- El scraper respeta las limitaciones de Google Maps y usa delays inteligentes.
 - No requiere API key de Google.
 - Los datos y configuraciones se migran automáticamente al actualizar.
-- Seguridad reforzada: validación de licencia remota, firma digital y protección de datos.
 
 ---
 
@@ -104,4 +88,4 @@ ISC License - Uso profesional y comercial permitido.
 
 ---
 
-**MapContact Pro Suite** — La herramienta brutal para scraping, automatización y gestión de leads en Google Maps. ¡Llévalo al siguiente nivel!
+**MapContact Pro Suite** — La solución definitiva para extraer, automatizar y convertir leads de Google Maps en oportunidades reales de negocio.
