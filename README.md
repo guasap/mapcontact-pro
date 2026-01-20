@@ -239,7 +239,7 @@
 <ul>
   <li>🐛 <b>Issues:</b> <a href="https://github.com/guasap/mapcontact-pro/issues">Reportar problemas</a></li>
   <li>📦 <b>Releases:</b> <a href="https://github.com/guasap/mapcontact-pro/releases">Ver todas las versiones</a></li>
-  <li>📧 <b>Email:</b> support@mapcontact.pro</li>
+  <li>📧 <b>Email:</b> whbeatz.info@gmail.com</li>
 </ul>
 
 <hr/>
