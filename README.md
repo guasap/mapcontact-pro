@@ -6,7 +6,7 @@
 <div align="center">
   <p>
     <img alt="Version" src="https://img.shields.io/badge/version-2.1.32-gold" />
-    <img alt="License" src="https://img.shields.io/badge/license-ISC-blue" />
+    <img alt="License" src="https://img.shields.io/badge/license-Proprietary-blue" />
     <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-0078D4" />
     <img alt="Status" src="https://img.shields.io/badge/status-Production-success" />
   </p>
@@ -360,7 +360,21 @@
 <h2 align="center">📄 Licencia</h2>
 
 <div align="center">
-  <p>ISC License. Uso comercial permitido.</p>
+  <p>Este software es propiedad exclusiva de MapContact.
+
+Al comprar la licencia se concede al usuario un derecho de uso no exclusivo, intransferible y limitado al número de dispositivos o usuarios indicados en la compra.
+
+Queda estrictamente prohibido:
+
+Copiar, modificar, descompilar o realizar ingeniería inversa sobre el software.
+
+Distribuirlo, revenderlo, regalarlo o compartirlo con terceros.
+
+Usarlo en otros proyectos o integrarlo en productos de terceros sin autorización escrita.
+
+El software se suministra “tal cual”, sin garantías, y MapContact no se hace responsable de daños derivados de su uso.
+
+</p>
 </div>
 
 <div align="center">
