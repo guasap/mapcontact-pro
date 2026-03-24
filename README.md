@@ -160,8 +160,8 @@
     </tr>
     <tr>
       <td><b>Espacio en Disco</b></td>
-      <td>500 MB libres</td>
-      <td>1 GB libres</td>
+      <td>700 MB libres</td>
+      <td>2 GB libres</td>
     </tr>
     <tr>
       <td><b>Conectividad</b></td>
