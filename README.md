@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    <img alt="Version" src="https://img.shields.io/badge/version-2.1.32-gold" />
+    <img alt="Version" src="https://img.shields.io/badge/version-2.1.35-gold" />
     <img alt="License" src="https://img.shields.io/badge/license-Proprietary-blue" />
     <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-0078D4" />
     <img alt="Status" src="https://img.shields.io/badge/status-Production-success" />
@@ -15,8 +15,8 @@
     <a href="https://github.com/guasap/mapcontact-pro/releases">
       <img alt="Releases" src="https://img.shields.io/badge/📦_Releases-Ver_descargas-black?style=for-the-badge" />
     </a>
-    <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.35/MapContact-Pro-Suite-Setup-2.1.32.exe">
-      <img alt="Download" src="https://img.shields.io/badge/⬇️_Descargar-v2.1.32-gold?style=for-the-badge" />
+    <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.35/MapContact-Pro-Suite-Setup-2.1.35.exe">
+      <img alt="Download" src="https://img.shields.io/badge/⬇️_Descargar-v2.1.35-gold?style=for-the-badge" />
     </a>
     <a href="#-caracteristicas">
       <img alt="Features" src="https://img.shields.io/badge/✨_Ver-Características-1f2937?style=for-the-badge" />
@@ -182,13 +182,13 @@
 
 <div align="center">
   <p>📦 Descargas y versiones: <a href="https://github.com/guasap/mapcontact-pro/releases"><b>Releases</b></a></p>
-  <p>📥 Instalador (v2.1.32): <code>MapContact-Pro-Suite-Setup-2.1.32.exe</code></p>
+  <p>📥 Instalador (v2.1.35): <code>MapContact-Pro-Suite-Setup-2.1.35.exe</code></p>
   <p>⚡ Instalación rápida: ejecuta el instalador y sigue el asistente.</p>
   <br/>
   <p><b>Descarga directa:</b></p>
   <p>
-    <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.32/MapContact-Pro-Suite-Setup-2.1.32.exe">
-      <code>MapContact-Pro-Suite-Setup-2.1.32.exe</code>
+    <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.35/MapContact-Pro-Suite-Setup-2.1.35.exe">
+      <code>MapContact-Pro-Suite-Setup-2.1.35.exe</code>
     </a>
   </p>
 </div>
