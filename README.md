@@ -15,7 +15,7 @@
     <a href="https://github.com/guasap/mapcontact-pro/releases">
       <img alt="Releases" src="https://img.shields.io/badge/📦_Releases-Ver_descargas-black?style=for-the-badge" />
     </a>
-    <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.31/MapContact-Pro-Suite-Setup-2.1.32.exe">
+    <a href="https://github.com/guasap/mapcontact-pro/releases/download/v2.1.35/MapContact-Pro-Suite-Setup-2.1.32.exe">
       <img alt="Download" src="https://img.shields.io/badge/⬇️_Descargar-v2.1.32-gold?style=for-the-badge" />
     </a>
     <a href="#-caracteristicas">
